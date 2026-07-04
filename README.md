@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm W.A Melki Hirumalee</h1>
-<h3 align="center">A passionate Software Engineering student and a UI/UX enthusiast from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineering student and a UI/UX enthusiast from Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melki-12345&label=Profile%20views&color=0e75b6&style=flat" alt="melki-12345" /> </p>
 
 - 🔭 I’m currently working on **personal portfolio website.**
 
-- 🌱 I’m currently learning **java script and free code camp courses**
+- 🌱 I’m currently learning **backend languages**
 
 - 👯 I’m looking to collaborate on **beginner friendly software and web projects**
 
